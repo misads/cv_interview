@@ -5,7 +5,8 @@
 > ssp我来啦！
 
 <ul id='sentence'><li>当你看到这句话的时候，是我在明示你点赞呐～</li></ul>
-[GitHub](https://github.com/misads/leetcode/)
+
+[GitHub](https://github.com/misads/cv_interview/)
 [Get Started](/README.md)
 
 
