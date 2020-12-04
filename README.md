@@ -10,7 +10,7 @@
 
   网页版链接👉 <http://cv.xyu.ink>  
 
-  Github链接👉 <https://github.com/misads/cv_interview 
+  Github链接👉 <https://github.com/misads/cv_interview> 
 
 　　欢迎关注我的主页: http://www.xyu.ink/ 。相互学习，一起成长！
 
